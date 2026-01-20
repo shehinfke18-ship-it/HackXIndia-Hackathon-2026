@@ -1,25 +1,64 @@
-## HackXIndia
-### Join 1000+ developers, designers and founders from all over India for a 24-hour non-stop hackathon that turns ideas into deployable products.
+# ⚡ Urja-Net  
+### An AI-Agentic Smart Grid for Decentralized Energy Forecasting & Optimization
 
---- 
-### Why this hackathon?
-Real problems, real mentors, real deploys. No boring PPTs – just shipping.
-
-- Work on problem statements from industry & startups.
-- Get mentored by developers, founders & domain experts.
-- Win cash prizes, swags & internship opportunities.
 ---
-### Who can participate?
-Open for all college students & early professionals across India.
 
-- CSE / IT / ECE / EE / ME / Any branch – all welcome.
-- Beginner-friendly: no minimum experience required.
-- Team size: 1–4 members
---- 
-📘
-### Instructions & Guidelines
-#### Important rules all participants must follow before and during HackXIndia.
+## 🧩 Problem Statement
+Despite India’s rapid adoption of rooftop solar systems, efficient utilization of generated energy remains a challenge.
 
+Key issues include:
+- **Unpredictable Solar Generation:** Weather variability causes sudden drops in solar output.
+- **Poor Energy Planning:** Households lack tools to predict solar availability and plan energy usage.
+- **Grid Stress:** Low solar days increase dependence on fossil-fuel-based grid power during peak hours.
+
+---
+
+## 💡 Proposed Solution
+**Urja-Net** introduces an **AI-based Energy Forecasting Agent** that predicts next-day solar energy generation using weather data and provides smart energy usage recommendations.
+
+The system helps households:
+- Plan appliance usage intelligently
+- Reduce electricity bills
+- Improve grid stability through proactive demand management
+
+---
+
+## 🔮 Energy Forecasting Demo (MVP)
+This hackathon demo focuses on **solar energy forecasting**, which is the core intelligence behind Urja-Net.
+
+### Demo Objective
+Predict **tomorrow’s solar energy output (kWh)** using weather parameters and generate **automated energy decisions**.
+
+---
+
+## 🧠 How It Works
+1. Historical weather data (sunlight, cloud cover, temperature) is used.
+2. A lightweight **machine learning model** predicts next-day solar generation.
+3. An AI agent evaluates the prediction.
+4. The system suggests:
+   - When to charge batteries / EVs
+   - When to run energy-intensive appliances
+
+---
+
+## ⚙️ Technical Architecture
+- **Input Data:** Weather parameters (simulated / API-based)
+- **AI Model:** Linear Regression (lightweight & fast)
+- **Decision Engine:** Rule-based agent
+- **Output:** Predicted solar energy + usage recommendation
+
+---
+
+## 🛠️ Tech Stack
+- Python  
+- Pandas, NumPy  
+- Scikit-learn  
+- CSV (Simulated Dataset)  
+- GitHub  
+
+---
+
+## 📂 Project Structure
 - HackXIndia is an online hackathon, being organized under Google Developers Groups on Campus.
 - Only the Team Leader needs to register for the hackathon.
 - The registration fee is non‑refundable in any circumstances.
