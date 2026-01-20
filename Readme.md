@@ -56,7 +56,12 @@ Predict **tomorrow’s solar energy output (kWh)** using weather parameters and 
 - CSV (Simulated Dataset)  
 - GitHub  
 
+src/
+docs/architecture.md
+System architecture and design details will be updated here.
+
 ---
+> Note: Urja-Net is a conceptual prototype developed for hackathon demonstration purposes only.
 
 ## 📂 Project Structure
 - HackXIndia is an online hackathon, being organized under Google Developers Groups on Campus.
