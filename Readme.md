@@ -4,11 +4,17 @@
 ---
 
 **TEAM KGPTC**
+
 MOHAMMED SHEHIN P
+
 AMITH VINOD
+
 ROSHAN ALI ET
+
 JUSWIN JOMY
-COLLAGE _ KERALA GOVT. POLYTECHNIC COLLEGE, KOZHIKODE 
+
+COLLAGE _ KERALA GOVT. POLYTECHNIC COLLEGE, KOZHIKODE
+
 
 ## 🧩 Problem Statement
 Despite India’s rapid adoption of rooftop solar systems, efficient utilization of generated energy remains a challenge.
